@@ -1,0 +1,139 @@
+.logo{
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+}
+
+.menu{
+    background-color: transparent;
+    
+}
+
+.menu01{
+    background-color: transparent;
+    position:absolute;
+    top:12%;
+    left: 22%;
+    
+}
+
+.button01{
+    background-color:white;
+    padding: 15px 32px;
+    border: 2px solid crimson;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.5s;
+}
+
+.button01:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6)
+}
+
+
+.button02{
+    background-color: white;
+    padding: 15px 32px;
+    border: 2px solid crimson;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.5s;
+}
+
+.button02:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+
+}
+
+.button03{
+    background-color: white;
+    padding: 15px 32px;
+    border: 2px solid crimson;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.5s;
+}
+
+.button03:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.button04{
+    background-color: white;
+    padding: 15px 32px;
+    border: 2px solid crimson;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.5s;
+}
+
+.button04:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.button05{
+    background-color: white;
+    padding: 15px 32px;
+    border: 2px solid crimson;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.5s;
+}
+
+.button05:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.icon{
+    text-align: right;
+    margin-top: -50px;
+}
+.icon i{
+    font-size: 24px;
+    margin-left: 15px;
+    background: #f1f1f1;
+    padding: 10px;
+    border-radius: 50%;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.facebook:hover{
+    background: #1877f2;
+    color: white;
+}
+
+.instagram:hover{
+    background: #e440f5;
+    color: white;
+}
+
+.linkedin:hover{
+    background: #0077b5;
+    color: white;
+}
